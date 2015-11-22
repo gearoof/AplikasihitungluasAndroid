@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dicoding App Hitung Luas</string>
+    <string name="t1">Panjang</string>
+    <string name="t2">Lebar</string>
+    <string name="btnhtg">Hiung</string>
+
+</resources>
